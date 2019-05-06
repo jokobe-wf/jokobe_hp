@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Jokobe WF First GitHub Page
 
 You can use the [editor on GitHub](https://github.com/jokobe-wf/jokobe_hp/edit/master/README.md) to maintain and preview the content for your website in Markdown files. 
 
